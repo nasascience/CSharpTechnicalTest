@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\ConsoleApp\\ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\ConsoleApp\\ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Johan Manuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Johan Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://rgcore-nuget.azurewebsites.net/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rgcore-nuget.azurewebsites.net": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment.Test\\GunvorRecruitment.Test.csproj": {
+                "projectPath": "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment.Test\\GunvorRecruitment.Test.csproj"
+              },
+              "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment\\GunvorRecruitment.csproj": {
+                "projectPath": "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment\\GunvorRecruitment.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment.Test\\GunvorRecruitment.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment.Test\\GunvorRecruitment.Test.csproj",
+        "projectName": "GunvorRecruitment.Test",
+        "projectPath": "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment.Test\\GunvorRecruitment.Test.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment\\GunvorRecruitment.csproj": {
+                "projectPath": "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment\\GunvorRecruitment.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment\\GunvorRecruitment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment\\GunvorRecruitment.csproj",
+        "projectName": "GunvorRecruitment",
+        "projectPath": "C:\\Users\\Johan Manuel\\Downloads\\RecruitmentTest\\RecruitmentTest\\GunvorRecruitment\\GunvorRecruitment.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}

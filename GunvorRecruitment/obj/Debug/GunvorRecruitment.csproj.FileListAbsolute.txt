@@ -1,0 +1,5 @@
+C:\Users\Johan Manuel\Downloads\RecruitmentTest\RecruitmentTest\GunvorRecruitment\bin\Debug\GunvorRecruitment.dll
+C:\Users\Johan Manuel\Downloads\RecruitmentTest\RecruitmentTest\GunvorRecruitment\bin\Debug\GunvorRecruitment.pdb
+C:\Users\Johan Manuel\Downloads\RecruitmentTest\RecruitmentTest\GunvorRecruitment\obj\Debug\GunvorRecruitment.csprojAssemblyReference.cache
+C:\Users\Johan Manuel\Downloads\RecruitmentTest\RecruitmentTest\GunvorRecruitment\obj\Debug\GunvorRecruitment.dll
+C:\Users\Johan Manuel\Downloads\RecruitmentTest\RecruitmentTest\GunvorRecruitment\obj\Debug\GunvorRecruitment.pdb
